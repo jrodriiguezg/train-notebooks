@@ -1,8 +1,10 @@
-# L3mcore Training Notebooks
+# Personal Training Notebooks
 
-Welcome to the **L3mcore** training repository. This project contains the open-source Jupyter Notebooks used to train, optimize, and export the core machine learning models for the LEMoE (Light Easy Mix Of Experts) ecosystem.
+Welcome to my personal training repository! This directory serves as a centralized collection of Jupyter Notebooks that I use to train, optimize, and export various machine learning models. 
 
-By open-sourcing these notebooks, we aim to allow the community to fine-tune, experiment, and deploy their own versions of the LEMoE models for custom use cases.
+By open-sourcing these notebooks, I hope to share my workflows and allow the community to learn, fine-tune, experiment, and deploy their own versions of these models for custom use cases.
+
+Currently, this repository features models from the **L3mcore** (LEMoE - Light Easy Mix Of Experts) ecosystem, but more notebooks and model architectures will be added over time.
 
 ## Repository Structure
 
@@ -29,4 +31,4 @@ To use these notebooks:
 4. Run the notebook cells sequentially. Dependencies will be installed automatically in the first cell.
 
 ## License
-These notebooks are released for the community to learn, train, and build upon the LEMoE architecture.
+These notebooks are open-sourced for the community to learn, train, and build upon these models. Feel free to use and adapt them for your own projects!
